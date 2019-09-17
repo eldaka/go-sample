@@ -1,0 +1,6 @@
+/xfers
+/vendor/
+.vscode/
+*.out
+*.test
+*.swp
