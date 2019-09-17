@@ -1,4 +1,4 @@
-/xfers
+go-sample
 /vendor/
 .vscode/
 *.out
