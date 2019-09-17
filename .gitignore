@@ -1,0 +1,6 @@
+/go-sample
+/vendor/
+.vscode/
+*.out
+*.test
+*.swp
